@@ -25,6 +25,7 @@
 
 ## Быстрый старт с Docker Compose
 ```shell
+git clone https://github.com/patsevanton/profiling-nodejs-app-by-pyroscope-with-sdk.git
 docker-compose up -d
 ```
 Для начала можно запустить нагрузку локально, имитируя активность пользователя:
@@ -42,7 +43,7 @@ done
 ### 1. Клонируем репозиторий с конфигурацией
 
 ```bash
-git clone https://github.com/patsevanton/pyroscope-nodejs
+git clone https://github.com/patsevanton/profiling-nodejs-app-by-pyroscope-with-sdk.git
 cd pyroscope-nodejs
 ```
 
